@@ -1,0 +1,7 @@
+today's Date: 2020-11-19
+soda ordered: 8
+sanitary napkin ordered: 4
+perfumes ordered: 2
+toys ordered: 2
+stationary ordered: 4
+beauty product ordered: 2
